@@ -1,5 +1,5 @@
-# Advent of Code 2023 Solutions
-Welcome to my repository where I share my solutions for the Advent of Code 2023. Advent of Code is an annual set of Christmas-themed programming challenges that can be solved in any programming language you prefer.
+# Advent of Code Solutions
+Welcome to my repository where I share my solutions for the Advent of Code. Advent of Code is an annual set of Christmas-themed programming challenges that can be solved in any programming language you prefer.
 
 ## About Advent of Code
 Advent of Code is created by Eric Wastl and involves a series of small programming puzzles for a variety of skill sets and skill levels that can be solved in any programming language you like. More information about the event can be found on the official website: [Advent of Code](https://adventofcode.com/)
